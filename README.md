@@ -1,4 +1,4 @@
-### (☞ﾟヮﾟ)☞ About me 
+### About me (^_^)
 ---
   <div>
     <p>My name is João Pedro de Carvalho Gomes, front enddeveloper</p>
